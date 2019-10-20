@@ -1,0 +1,12 @@
+.AddPerson {
+    text-align: center;
+    margin: 30px;
+    background-color:salmon;
+    border-radius: 15px
+}
+
+.input{
+    border-radius: 14px;
+    margin:10px
+
+}
